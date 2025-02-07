@@ -2,7 +2,7 @@ import { View, Text, TouchableOpacity, Switch, Image } from "react-native";
 import { useState } from "react";
 import Icon from "react-native-vector-icons/Feather";
 
-// Import des données externalisées
+// Import des données 
 import { userProfile, menuItems } from "@/data";
 
 export default function Setting() {
