@@ -1,7 +1,7 @@
 #Mobile ecommerce react native
 
 ##Demo
-https://github.com/Adzaba3/react-native-marketplace/blob/133735dd08886747705b7ecd0eae53c2ac6f55aa/demo.mp4
+https://drive.google.com/file/d/1Xsz-t7b0Q1Sh-k91fayuNiNf2t5G58UF/view?usp=drive_link 
 
 ### Whats included:
 - [Expo](https://expo.dev/) 
